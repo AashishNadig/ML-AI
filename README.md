@@ -1,2 +1,2 @@
-# SQL
-This is for SQL learning 
+# ML and AI
+This is my ML and AI learning
